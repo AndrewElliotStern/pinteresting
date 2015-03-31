@@ -3,4 +3,4 @@
 This is the pinteresting sample application for
 [*One Month Rails*](http://onemonthrails.com)
 
-by [Andrew Stern] (http://andrewelliotstern.com)
+by [Andrew Elliot Stern] (http://andrewelliotstern.com)
